@@ -1,4 +1,4 @@
-# Daarto
+# Dapper Identity
 
 The main purpose of this repository is to demonstrate a custom implementation of 
 [ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity) stores by using SQL Server and 
