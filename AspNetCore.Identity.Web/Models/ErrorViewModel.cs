@@ -1,4 +1,4 @@
-namespace Daarto.WebUI.Models
+namespace AspNetCore.Identity.Web.Models
 {
     public class ErrorViewModel
     {

@@ -5,7 +5,7 @@ using AspNetCore.Identity.Dapper;
 using Dapper;
 using Microsoft.AspNetCore.Identity;
 
-namespace Daarto.WebUI.Data.Tables
+namespace AspNetCore.Identity.Web.Data.Tables
 {
     public class ExtendedRolesTable : RolesTable<ExtendedIdentityRole, string, IdentityRoleClaim<string>>
     {

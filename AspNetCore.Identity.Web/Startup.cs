@@ -1,5 +1,5 @@
-using Daarto.WebUI.Data;
-using Daarto.WebUI.Data.Tables;
+using AspNetCore.Identity.Web.Data;
+using AspNetCore.Identity.Web.Data.Tables;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace Daarto.WebUI
+namespace AspNetCore.Identity.Web
 {
     public class Startup
     {

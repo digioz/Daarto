@@ -16,10 +16,10 @@
     <PackageId>AspNetCore.Identity.DapperOrm</PackageId>
     <PackageTags>AspNetCore;Dapper;Identity</PackageTags>
     <PackageReleaseNotes>Fixes issue #14.</PackageReleaseNotes>
-    <PackageProjectUrl>https://github.com/giorgos07/Daarto/tree/master/src/AspNetCore.Identity.Dapper</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/digioz/DapperIdentity1/tree/master/AspNetCore.Identity.Dapper</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/giorgos07/Daarto/tree/master/src/AspNetCore.Identity.Dapper</RepositoryUrl>
+    <RepositoryUrl>https://github.com/digioz/DapperIdentity1/tree/master/AspNetCore.Identity.Dapper</RepositoryUrl>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <UserSecretsId>ea4ca2df-aa2d-4174-8f13-b1e594019d86</UserSecretsId>
   </PropertyGroup>

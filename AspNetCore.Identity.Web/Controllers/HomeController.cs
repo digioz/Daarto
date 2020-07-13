@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics;
-using Daarto.WebUI.Models;
+using AspNetCore.Identity.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace Daarto.WebUI.Controllers
+namespace AspNetCore.Identity.Web.Controllers
 {
     public class HomeController : Controller
     {

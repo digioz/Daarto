@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace Daarto.WebUI.Data
+namespace AspNetCore.Identity.Web.Data
 {
     public class ExtendedIdentityRole : IdentityRole<string>
     {

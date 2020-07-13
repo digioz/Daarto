@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace Daarto.WebUI
+namespace AspNetCore.Identity.Web
 {
     public class Program
     {
